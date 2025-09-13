@@ -1,1 +1,0 @@
-Personal website. Redirects to [duynguyen158.github.io/profile/](https://duyknguyen.com/profile/).
