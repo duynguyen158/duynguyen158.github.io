@@ -18,7 +18,11 @@ function TopAlbumCards({ albums, timestamp }) {
   return (
     <div>
       <span class="as-of">
-        As of{" "}
+        Data from{" "}
+        <a href="https://www.last.fm" target="_blank">
+          last.fm
+        </a>
+        , as of{" "}
         {new Date(Number(timestamp) * 1000).toLocaleDateString("en-us", {
           year: "numeric",
           month: "short",
@@ -31,7 +35,7 @@ function TopAlbumCards({ albums, timestamp }) {
         style={{ maxWidth: "960px", marginTop: "0.5rem" }}
       >
         {albums.map((album) => (
-          <a href={album.url} target="_blank">
+          <a class="album" href={album.url} target="_blank">
             <div
               class="card grid grid-cols-2"
               style={{
@@ -71,11 +75,11 @@ display(
 ```
 
 <style>
-  a:hover {
+  .album:hover {
     color: rgba(0, 0, 0, 0);
   }
 
-  a:hover .card {
+  .album:hover .card {
     background-color: var(--theme-foreground-faintest);
   }
 
@@ -83,5 +87,10 @@ display(
     font-family: var(--sans-serif);
     color: var(--theme-foreground-faint);
     font-size: 0.8rem;
+  }
+
+  .as-of a {
+    color: var(--theme-foreground-faint);
+    text-decoration: underline;
   }
 </style>
