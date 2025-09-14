@@ -34,7 +34,7 @@ export default {
   style: "global.css",
   header: '<span class="focus-gradient"><a href="/">Duy K. Nguyen</a></span>', // what to show in the header (HTML)
   footer:
-    'Built with Observable. 🎧 <a style="color: var(--theme-foreground-faint); text-decoration: underline;" href="/music-stats">What is Duy listening to?</a>', // what to show in the footer (HTML)
+    'Built with Observable. 🎧 <a style="color: var(--theme-foreground-faint); text-decoration: underline;" href="/music">What is Duy listening to?</a>', // what to show in the footer (HTML)
   sidebar: false, // whether to show the sidebar
   // toc: true, // whether to show the table of contents
   pager: false, // whether to show previous & next links in the footer
