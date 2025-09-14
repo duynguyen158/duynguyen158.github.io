@@ -17,7 +17,14 @@ export default {
   // ],
 
   // Content to add to the head of the page, e.g. for a favicon:
-  head: '<link rel="icon" href="observable.png" type="image/png" sizes="32x32">',
+  head: ({ title, data, path }) =>
+    `
+      <link rel="icon" href="balloon-32x32.png" type="image/png" sizes="32x32">
+      <meta property="og:title" content="🎈 ${title || "Duy K. Nguyen"}" />
+      <meta property="og:type" content="website" />
+      <meta property="og:url" content="https://duyknguyen.com${path}" />
+      <meta property="og:description" content="Duy K. Nguyen is a data scientist, engineer, and journalist on the A.I. Initiatives team at The New York Times." />
+    `,
 
   // The path to the source root.
   root: "src",
