@@ -27,7 +27,7 @@ export default {
   style: "global.css",
   header: '<span class="focus-gradient"><a href="/">Duy K. Nguyen</a></span>', // what to show in the header (HTML)
   footer: "Built with Observable.", // what to show in the footer (HTML)
-  // sidebar: true, // whether to show the sidebar
+  sidebar: false, // whether to show the sidebar
   // toc: true, // whether to show the table of contents
   pager: false, // whether to show previous & next links in the footer
   // output: "dist", // path to the output root for build
