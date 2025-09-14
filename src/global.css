@@ -1,0 +1,18 @@
+@import url("observablehq:default.css");
+/* Import theme styles based on user's preferred color scheme (light or dark) */
+@import url("observablehq:theme-parchment.css") screen;
+@import url("observablehq:theme-ocean-floor.css") screen and
+  (prefers-color-scheme: dark);
+
+.focus-gradient {
+  font-family: var(--sans-serif);
+  font-weight: 900;
+  background: linear-gradient(
+    30deg,
+    var(--theme-foreground-focus),
+    currentColor
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}

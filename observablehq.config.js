@@ -1,7 +1,7 @@
 // See https://observablehq.com/framework/config for documentation.
 export default {
   // The app’s title; used in the sidebar and webpage titles.
-  title: "🎧 Duy K. Nguyen",
+  title: "Duy K. Nguyen",
 
   // The pages and sections in the sidebar. If you don’t specify this option,
   // all pages will be listed in alphabetical order. Listing pages explicitly
@@ -23,9 +23,10 @@ export default {
   root: "src",
 
   // Some additional configuration options and their defaults:
-  theme: ["parchment", "ocean-floor"],
-  // header: "", // what to show in the header (HTML)
-  // footer: "Built with Observable.", // what to show in the footer (HTML)
+  // theme: ["parchment", "ocean-floor"],
+  style: "global.css",
+  header: '<span class="focus-gradient"><a href="/">Duy K. Nguyen</a></span>', // what to show in the header (HTML)
+  footer: "Built with Observable.", // what to show in the footer (HTML)
   // sidebar: true, // whether to show the sidebar
   // toc: true, // whether to show the table of contents
   pager: false, // whether to show previous & next links in the footer
