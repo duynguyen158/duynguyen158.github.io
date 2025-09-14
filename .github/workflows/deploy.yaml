@@ -2,7 +2,14 @@ name: Deploy
 
 on:
   # Run this workflow whenever a new commit is pushed to main.
-  push: { branches: [main] }
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/deploy.yaml
+      - src/**
+      - observablehq.config.js
+      - package.json
+      - package-lock.json
   # Run this workflow once per day, at 4:15 AM UTC
   schedule: [{ cron: "15 4 * * *" }]
   # Run this workflow when triggered manually in GitHub’s UI.
