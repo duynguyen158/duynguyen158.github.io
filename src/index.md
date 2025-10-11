@@ -12,6 +12,6 @@ Originally from Hanoi, Vietnam, he lives in Queens most of the time and on a ðŸš
 
 Take a look at his [CV](https://drive.google.com/file/d/1LnbTvniS_wvsZptYUjKAEcn1mTSDwZfS/view?usp=sharing).
 
-Hit him up with an [email](mailto:hello.duyknguyen@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/duy-nguyen-a5bb12150/).
+Reach out to him via [email](mailto:hello@duyknguyen.com) or [LinkedIn](https://www.linkedin.com/in/duy-nguyen-a5bb12150/).
 
 Here's his [GitHub](https://github.com/duynguyen158) if that's your thing.
