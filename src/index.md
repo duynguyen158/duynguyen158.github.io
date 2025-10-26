@@ -5,13 +5,13 @@ header: false
 ---
 
 <p>
-  <span class="focus-gradient">Duy K. Nguyen</span> is a data scientist, engineer, and journalist on the A.I. Initiatives team at The New York Times.
+  <span class="focus-gradient">Duy K. Nguyen</span> is a data scientist, engineer and journalist solving A.I. problems at The New York Times.
 </p>
 
-Originally from Hanoi, Vietnam, he lives in Queens most of the time and on a 🚲 Citi Bike rest of the time.
+At the Brown Institute for Media Innovation, he built models and ran experiments to solve audience and revenue problems for local news.
 
-Take a look at his [CV](https://drive.google.com/file/d/1LnbTvniS_wvsZptYUjKAEcn1mTSDwZfS/view?usp=sharing).
+He also developed news graphics and interactives for The Times and NPR.
 
-Reach out to him via [email](mailto:hello@duyknguyen.com) or [LinkedIn](https://www.linkedin.com/in/duy-nguyen-a5bb12150/).
+Born in Hanoi, he lives in Queens and on 🚲 Citi Bikes.
 
-Here's his [GitHub](https://github.com/duynguyen158) if that's your thing.
+Take a look at his [CV](https://drive.google.com/file/d/1LnbTvniS_wvsZptYUjKAEcn1mTSDwZfS/view?usp=sharing) or [GitHub](https://github.com/duynguyen158). Reach out to him via [email](mailto:hello@duyknguyen.com) or [LinkedIn](https://www.linkedin.com/in/duy-nguyen-a5bb12150/).
