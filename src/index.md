@@ -5,12 +5,12 @@ header: false
 ---
 
 <p>
-  <span class="focus-gradient">Duy K. Nguyen</span> is a data scientist, engineer and journalist solving A.I. problems at The New York Times.
+  <span class="focus-gradient">Duy K. Nguyen</span> is a journalist and data scientist. 
 </p>
 
-At the Brown Institute for Media Innovation, he built models and ran experiments to solve audience and revenue problems for local news.
+At The New York Times, he leads A.I. Science, a newsroom research lab that pushes the frontier on how journalism can use A.I. to its full potential while minimizing its harm.
 
-He also developed news graphics and interactives for The Times and NPR.
+Before that, he built models and ran experiments to solve audience and revenue problems for local news. He also developed news graphics and interactives for The Times and NPR.
 
 Born in Hanoi, he lives in Queens and on 🚲 Citi Bikes.
 
