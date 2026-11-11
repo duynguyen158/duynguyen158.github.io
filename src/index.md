@@ -8,7 +8,7 @@ header: false
   <span class="focus-gradient">Duy K. Nguyen</span> is an award-winning journalist and frontier scientist for news.
 </p>
 
-At The New York Times, he leads A.I. Science, a research lab that looks at on how journalism can use A.I. to its full potential while minimizing its harm.
+At The New York Times, he leads A.I. Science, a research lab on how journalism can use A.I. to its full potential while minimizing its harm.
 
 Before that, he built models and ran experiments to solve audience and revenue problems for local news. He also developed news graphics and interactives for The Times and NPR.
 
