@@ -10,7 +10,7 @@ header: false
 
 At The New York Times, he leads A.I. Science, a research lab on how journalism can use A.I. to its full potential while minimizing its harm.
 
-Before that, he piloted data science solutions for local news sustainability at Columbia Journalism School. He also developed news graphics and interactives for The Times and NPR.
+Before that, he piloted data science solutions for local news sustainability at Columbia Journalism School. He also reported and developed news graphics for [The Times](https://www.nytimes.com/by/duy-nguyen) and NPR.
 
 A Gen Z media consumer, he thinks conversational, agentic A.I. is the [new medium of this generation](https://generative-ai-newsroom.com/if-not-the-article-what-800122f8ed00), like radio, TV and the internet before it.
 
