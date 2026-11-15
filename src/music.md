@@ -11,7 +11,7 @@ const topAlbums = FileAttachment("data/top-albums.json").json();
 topAlbums
 ```-->
 
-### 🎧 Last week's favorites
+### 🎧 Last week's favorite albums
 
 ```jsx
 function TopAlbumCards({ albums, timestamp }) {
